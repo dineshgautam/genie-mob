@@ -1,9 +1,9 @@
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes.dex : \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/BuildConfig.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/HelloWorld.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/R$attr.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/R$drawable.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/R$string.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/R$xml.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/classes/com/example/hello/R.class \
-/Users/gautam/Documents/github/hello/platforms/android/ant-build/dexedLibs/classes-f959feb08750a814f8baf021987ff4e3.jar \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes.dex : \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/BuildConfig.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/ButlerJee.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/R$attr.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/R$drawable.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/R$string.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/R$xml.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/classes/com/genie/butlerjee/R.class \
+/Users/gautam/Documents/github/genie-mob/platforms/android/ant-build/dexedLibs/classes-85d058dc89d54456045465c08c531950.jar \
